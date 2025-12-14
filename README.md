@@ -27,7 +27,7 @@ pip install reportlab pandas matplotlib
 👨‍💻 Hire the Developer
 I don't just design PCBs; I build systems to design them faster.
 
-Fiverr: [INSERT YOUR LINK]
+Fiverr: [INSERT MY LINK]
 
 Services: Python Automation for Engineering, KiCad Plugin Development.
 
