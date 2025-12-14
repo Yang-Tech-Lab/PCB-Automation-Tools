@@ -27,9 +27,11 @@ pip install reportlab pandas matplotlib
 👨‍💻 Hire the Developer
 I don't just design PCBs; I build systems to design them faster.
 
-Fiverr: [INSERT MY LINK]
+### 🚧 Status
+**Commercial Services Launching: Spring 2026**
 
-Services: Python Automation for Engineering, KiCad Plugin Development.
-
+Yang-Tech-Lab is currently in active development. 
+- ⭐️ **Star this repo** to get notified when we launch.
+- 📧 **Contact:** (Open an Issue for technical discussions)
 # Generate a quote
 python make_invoice.py
