@@ -1,0 +1,13 @@
+2025/12/10-18:58:12.369 5e64 Reusing MANIFEST D:\Python_Projects\fiverr_browser_data\Default\IndexedDB\https_www.fiverr.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/10-18:58:12.370 5e64 Recovering log #13
+2025/12/10-18:58:12.370 5e64 Reusing old log D:\Python_Projects\fiverr_browser_data\Default\IndexedDB\https_www.fiverr.com_0.indexeddb.leveldb/000013.log 
+2025/12/10-18:58:12.537 3fe4 Level-0 table #18: started
+2025/12/10-18:58:12.546 3fe4 Level-0 table #18: 1041 bytes OK
+2025/12/10-18:58:12.551 3fe4 Delete type=0 #13
+2025/12/10-18:58:12.552 5e64 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 444 : 1
+2025/12/10-18:58:12.552 5e64 Compacting 1@0 + 1@1 files
+2025/12/10-18:58:12.557 5e64 Generated table #19@0: 28 keys, 892 bytes
+2025/12/10-18:58:12.557 5e64 Compacted 1@0 + 1@1 files => 892 bytes
+2025/12/10-18:58:12.561 5e64 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/10-18:58:12.562 5e64 Delete type=2 #18
+2025/12/10-18:58:12.563 5e64 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 444 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
